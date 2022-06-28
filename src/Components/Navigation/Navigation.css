@@ -1,0 +1,8 @@
+.navigation{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1%;
+    font-size: x-large;
+    font-weight: 600;
+    color: darkslategrey;
+}

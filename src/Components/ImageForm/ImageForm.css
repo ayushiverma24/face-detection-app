@@ -1,0 +1,24 @@
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15%;
+    font-size: xxx-large;
+    font-weight: 600;
+    color: darkslategrey;
+}
+.box input{
+    width: 70%;
+    height: 10%;
+    border: 2px solid darkslategrey;
+    border-radius: 10px;
+}
+button{
+    margin: 2%;
+    background: darkslategrey;
+    color: white;
+    width: 11%;
+    height: 12%;
+    border: none;
+    font-size: 15px;
+    font-weight: 100;
+}
