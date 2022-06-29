@@ -5,7 +5,7 @@ const ImageForm =()=>{
         <div className="box">
         <div>
         <p>Paste the Image link to detect face!</p>
-        <input type='text'></input>
+        <input type='text' placeholder='Enter Image link'></input>
         <button>Detect</button>
         </div>
         </div>

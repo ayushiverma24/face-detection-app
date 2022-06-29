@@ -1,9 +1,11 @@
-body {
+/* body {
   margin: 0;
   padding: 0;
-  background-image: url('./Images/background.jpg');
-  /* background-position: center; */
-  background-size: cover;
-  
-}
+  background-image: url('./Images/background1.jpg');
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+ 
+} */
 
