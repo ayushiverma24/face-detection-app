@@ -6,10 +6,10 @@ import particleConfig from './Images/particlesConfig'
 function App() {
   return (
     <div className='app'>
-      <Particles
+      {/* <Particles
       className='particlesCSS'
       params={particleConfig}
-      ></Particles>
+      ></Particles> */}
      <Navigation/>
      <ImageForm/>
     </div>

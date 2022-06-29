@@ -1,24 +1,25 @@
-.box{
+.parent{
     display: flex;
-    justify-content: space-evenly;
-    margin: 15%;
-    font-size: xxx-large;
-    font-weight: 600;
-    color: white;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
 }
-.box input{
-    width: 70%;
-    height: 10%;
-    border: 2px solid darkslategrey;
-   
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+input{
+    padding: 0.5rem;
+    width: 20rem;
 }
 button{
-    cursor: pointer;
-    background: darkslategrey;
+    padding: 0.5rem;
+}
+p{
     color: white;
-    width: 11%;
-    height: 12%;
-    border: none;
-    font-size: 15px;
-    font-weight: 100;
+    font-weight: 600;
+    font-size: 1.5rem;
 }
